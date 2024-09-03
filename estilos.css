@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    overflow: hidden;
+    background-color: black;
+
+}
+
+canvas {
+    background-color: #000;
+    border: 2px solid #fff;
+    margin-top: 89px; /* Adiciona um espaçamento superior */
+}
