@@ -20,14 +20,14 @@ const sprites = {
     upWalk: new Image()
 };
 
-sprites.down.src = 'Playerspritedown.png';
-sprites.downWalk.src = 'Playerspritedownwalk.png';
-sprites.left.src = 'Playerspriteleft.png';
-sprites.leftWalk.src = 'Playerspriteleftwalk.png';
-sprites.right.src = 'Playerspriteright.png';
-sprites.rightWalk.src = 'Playerspriterightwalk.png';
-sprites.up.src = 'Playerspriteup.png';
-sprites.upWalk.src = 'Playerspriteupwalk.png';
+sprites.down.src = 'assets/Playerspritedown.png';
+sprites.downWalk.src = 'assets/Playerspritedownwalk.png';
+sprites.left.src = 'assets/Playerspriteleft.png';
+sprites.leftWalk.src = 'assets/Playerspriteleftwalk.png';
+sprites.right.src = 'assets/Playerspriteright.png';
+sprites.rightWalk.src = 'assets/Playerspriterightwalk.png';
+sprites.up.src = 'assets/Playerspriteup.png';
+sprites.upWalk.src = 'assets/Playerspriteupwalk.png';
 
 // Configurações do jogo
 const player = {
